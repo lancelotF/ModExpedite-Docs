@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>ModExpedite Logo</title>
+	<style>
+		.s0 { fill: #ff7200 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="M" class="s0" aria-label="M"  d="m380.2 155v301h-92.6v-101.9l-69.5 101.9-69.4-101.9v101.9h-92.7v-208.4h-32.4v-92.6h125.1l69.4 101.9 69.5-101.9z"/>
+	<path id="X" class="s1" aria-label="X"  d="m421 133.1l56.1 88.9h-65.6l-23.3-36.9-23.2 36.9h-65.7l56.1-88.9-21.6-34.2h-53.6v-54.7h84.8l23.2 36.9 23.3-36.9h65.6z"/>
+</svg>

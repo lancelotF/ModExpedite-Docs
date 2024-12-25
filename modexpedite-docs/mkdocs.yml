@@ -1,0 +1,39 @@
+site_name: ModExpedite Documentation
+
+repo_url: https://github.com/lancelotF/ModEx
+repo_name: Github
+
+nav:
+  - Getting Started:
+      - Getting Started/index.md
+      - Create a new project: Getting Started/Create a new project.md
+
+theme:
+  logo: assets/logo.svg
+  font:
+    text: Inter
+    code: Fira Code
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - header.autohide
+    - navigation.indexes
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  name: material
